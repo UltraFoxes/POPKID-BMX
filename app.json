@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -62,14 +62,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "POPKID"
+    "value": "HITMAN"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of Tanzania'255')",
     "required":false,
-    "value": "254111385747"
+    "value": "2349161210903"
   
   
   },
